@@ -12,9 +12,8 @@
 
 
 # Tabulation /Graph
-![WhatsApp Image 2025-11-19 at 21 41 19_618dda46](https://github.com/user-attachments/assets/3409e8b1-7985-4706-87be-119c60095cc7)
+<img width="941" height="1600" alt="image" src="https://github.com/user-attachments/assets/2b8e7931-3f2d-497b-a9f1-53236ee822ec" />
 
-![WhatsApp Image 2025-11-19 at 21 41 47_71a922b4](https://github.com/user-attachments/assets/cdb0b637-f9ab-43d7-b6b5-811f4128d614)
 
 # Result
 Thus the Stair case wiring is connected and tested.
