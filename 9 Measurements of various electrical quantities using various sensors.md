@@ -134,14 +134,14 @@ Self heating: The very small cross-sectional areas in the sensing elements will 
 
 # Circuit Diagram in software
 <img width="1600" height="972" alt="image" src="https://github.com/user-attachments/assets/469f0a0e-759d-428c-97a5-bd71c70c7c7a" />
-<img width="1564" height="1110" alt="image" src="https://github.com/user-attachments/assets/c816d871-baf5-4a0e-90a4-f74401ed8c92" />
 
 <img width="1600" height="986" alt="image" src="https://github.com/user-attachments/assets/ea6eb2b8-d669-4d2a-b4b6-b0461db8306c" />
 
 
 
-
 # Output Graph / Tabulation
+<img width="1564" height="1110" alt="image" src="https://github.com/user-attachments/assets/c816d871-baf5-4a0e-90a4-f74401ed8c92" />
+
 <img width="1582" height="1102" alt="image" src="https://github.com/user-attachments/assets/b09d0eff-de11-4c46-af99-5c059d985fcc" />
 
 
