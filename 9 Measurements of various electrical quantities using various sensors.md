@@ -1,5 +1,5 @@
 ## Exp. No. 9
-## DATE.25/03/26
+## DATE 26/03/26
 
 ## Measurements of various electrical quantities using various sensors
 
@@ -133,16 +133,19 @@ Insulation resistance: It is the largest cause of errors and failure of RTD. The
 Self heating: The very small cross-sectional areas in the sensing elements will tend to heat when electrical current is applied. Most RTDs are specified to be operated with a current of 1 milliampere or less.
 
 # Circuit Diagram in software
-<img width="951" height="790" alt="Screenshot 2025-11-15 071547" src="https://github.com/user-attachments/assets/d5be6bf4-f0dd-4714-874f-e7d812f78d02" />
+<img width="1600" height="972" alt="image" src="https://github.com/user-attachments/assets/469f0a0e-759d-428c-97a5-bd71c70c7c7a" />
+<img width="1564" height="1110" alt="image" src="https://github.com/user-attachments/assets/c816d871-baf5-4a0e-90a4-f74401ed8c92" />
 
-<img width="956" height="727" alt="Screenshot 2025-11-15 071439" src="https://github.com/user-attachments/assets/60497930-81e4-41e5-89e8-89987bbb97bb" />
+<img width="1600" height="986" alt="image" src="https://github.com/user-attachments/assets/ea6eb2b8-d669-4d2a-b4b6-b0461db8306c" />
+
+
 
 
 # Output Graph / Tabulation
-![9th L2-Graph](https://github.com/user-attachments/assets/d06bf047-aed0-44e1-91e8-f0337c8a5df3)
+<img width="1582" height="1102" alt="image" src="https://github.com/user-attachments/assets/b09d0eff-de11-4c46-af99-5c059d985fcc" />
+
 
 
 # Result
 The RTD output resistance increased linearly with temperature, confirming its positive temperature coefficient behavior. The plotted characteristics matched theoretical RTD equations, proving accurate and stable temperature measurement.
 
-The RTD output resistance increased linearly with temperature, confirming its positive temperature coefficient behavior. The plotted characteristics matched theoretical RTD equations, proving accurate and stable temperature measurement.
